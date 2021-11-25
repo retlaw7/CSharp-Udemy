@@ -1,0 +1,16 @@
+E:\CSharp Udemy\section6\section6\bin\Debug\net5.0\section6.exe
+E:\CSharp Udemy\section6\section6\bin\Debug\net5.0\section6.deps.json
+E:\CSharp Udemy\section6\section6\bin\Debug\net5.0\section6.runtimeconfig.json
+E:\CSharp Udemy\section6\section6\bin\Debug\net5.0\section6.runtimeconfig.dev.json
+E:\CSharp Udemy\section6\section6\bin\Debug\net5.0\section6.dll
+E:\CSharp Udemy\section6\section6\bin\Debug\net5.0\ref\section6.dll
+E:\CSharp Udemy\section6\section6\bin\Debug\net5.0\section6.pdb
+E:\CSharp Udemy\section6\section6\obj\Debug\net5.0\section6.csproj.AssemblyReference.cache
+E:\CSharp Udemy\section6\section6\obj\Debug\net5.0\section6.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp Udemy\section6\section6\obj\Debug\net5.0\section6.AssemblyInfoInputs.cache
+E:\CSharp Udemy\section6\section6\obj\Debug\net5.0\section6.AssemblyInfo.cs
+E:\CSharp Udemy\section6\section6\obj\Debug\net5.0\section6.csproj.CoreCompileInputs.cache
+E:\CSharp Udemy\section6\section6\obj\Debug\net5.0\section6.dll
+E:\CSharp Udemy\section6\section6\obj\Debug\net5.0\ref\section6.dll
+E:\CSharp Udemy\section6\section6\obj\Debug\net5.0\section6.pdb
+E:\CSharp Udemy\section6\section6\obj\Debug\net5.0\section6.genruntimeconfig.cache

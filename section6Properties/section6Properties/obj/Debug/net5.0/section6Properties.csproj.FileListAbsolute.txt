@@ -1,0 +1,16 @@
+E:\CSharp Udemy\section6Properties\section6Properties\bin\Debug\net5.0\section6Properties.exe
+E:\CSharp Udemy\section6Properties\section6Properties\bin\Debug\net5.0\section6Properties.deps.json
+E:\CSharp Udemy\section6Properties\section6Properties\bin\Debug\net5.0\section6Properties.runtimeconfig.json
+E:\CSharp Udemy\section6Properties\section6Properties\bin\Debug\net5.0\section6Properties.runtimeconfig.dev.json
+E:\CSharp Udemy\section6Properties\section6Properties\bin\Debug\net5.0\section6Properties.dll
+E:\CSharp Udemy\section6Properties\section6Properties\bin\Debug\net5.0\ref\section6Properties.dll
+E:\CSharp Udemy\section6Properties\section6Properties\bin\Debug\net5.0\section6Properties.pdb
+E:\CSharp Udemy\section6Properties\section6Properties\obj\Debug\net5.0\section6Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp Udemy\section6Properties\section6Properties\obj\Debug\net5.0\section6Properties.AssemblyInfoInputs.cache
+E:\CSharp Udemy\section6Properties\section6Properties\obj\Debug\net5.0\section6Properties.AssemblyInfo.cs
+E:\CSharp Udemy\section6Properties\section6Properties\obj\Debug\net5.0\section6Properties.csproj.CoreCompileInputs.cache
+E:\CSharp Udemy\section6Properties\section6Properties\obj\Debug\net5.0\section6Properties.dll
+E:\CSharp Udemy\section6Properties\section6Properties\obj\Debug\net5.0\ref\section6Properties.dll
+E:\CSharp Udemy\section6Properties\section6Properties\obj\Debug\net5.0\section6Properties.pdb
+E:\CSharp Udemy\section6Properties\section6Properties\obj\Debug\net5.0\section6Properties.genruntimeconfig.cache
+E:\CSharp Udemy\section6Properties\section6Properties\obj\Debug\net5.0\section6Properties.csproj.AssemblyReference.cache
