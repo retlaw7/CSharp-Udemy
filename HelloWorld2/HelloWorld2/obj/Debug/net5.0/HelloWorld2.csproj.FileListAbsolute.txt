@@ -1,0 +1,16 @@
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\bin\Debug\net5.0\HelloWorld2.exe
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\bin\Debug\net5.0\HelloWorld2.deps.json
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\bin\Debug\net5.0\HelloWorld2.runtimeconfig.json
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\bin\Debug\net5.0\HelloWorld2.runtimeconfig.dev.json
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\bin\Debug\net5.0\HelloWorld2.dll
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\bin\Debug\net5.0\ref\HelloWorld2.dll
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\bin\Debug\net5.0\HelloWorld2.pdb
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\obj\Debug\net5.0\HelloWorld2.csproj.AssemblyReference.cache
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\obj\Debug\net5.0\HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\obj\Debug\net5.0\HelloWorld2.AssemblyInfoInputs.cache
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\obj\Debug\net5.0\HelloWorld2.AssemblyInfo.cs
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\obj\Debug\net5.0\HelloWorld2.csproj.CoreCompileInputs.cache
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\obj\Debug\net5.0\HelloWorld2.dll
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\obj\Debug\net5.0\ref\HelloWorld2.dll
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\obj\Debug\net5.0\HelloWorld2.pdb
+E:\CSharp Udemy\HelloWorld2\HelloWorld2\obj\Debug\net5.0\HelloWorld2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\walte\source\repos\section4\section4\bin\Debug\net5.0\section4.exe
+C:\Users\walte\source\repos\section4\section4\bin\Debug\net5.0\section4.deps.json
+C:\Users\walte\source\repos\section4\section4\bin\Debug\net5.0\section4.runtimeconfig.json
+C:\Users\walte\source\repos\section4\section4\bin\Debug\net5.0\section4.runtimeconfig.dev.json
+C:\Users\walte\source\repos\section4\section4\bin\Debug\net5.0\section4.dll
+C:\Users\walte\source\repos\section4\section4\bin\Debug\net5.0\ref\section4.dll
+C:\Users\walte\source\repos\section4\section4\bin\Debug\net5.0\section4.pdb
+C:\Users\walte\source\repos\section4\section4\obj\Debug\net5.0\section4.csproj.AssemblyReference.cache
+C:\Users\walte\source\repos\section4\section4\obj\Debug\net5.0\section4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walte\source\repos\section4\section4\obj\Debug\net5.0\section4.AssemblyInfoInputs.cache
+C:\Users\walte\source\repos\section4\section4\obj\Debug\net5.0\section4.AssemblyInfo.cs
+C:\Users\walte\source\repos\section4\section4\obj\Debug\net5.0\section4.csproj.CoreCompileInputs.cache
+C:\Users\walte\source\repos\section4\section4\obj\Debug\net5.0\section4.dll
+C:\Users\walte\source\repos\section4\section4\obj\Debug\net5.0\ref\section4.dll
+C:\Users\walte\source\repos\section4\section4\obj\Debug\net5.0\section4.pdb
+C:\Users\walte\source\repos\section4\section4\obj\Debug\net5.0\section4.genruntimeconfig.cache
